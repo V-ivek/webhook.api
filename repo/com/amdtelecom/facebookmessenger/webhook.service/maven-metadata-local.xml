@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.amdtelecom.facebookmessenger</groupId>
+  <artifactId>webhook.service</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190408171747</lastUpdated>
+  </versioning>
+</metadata>
